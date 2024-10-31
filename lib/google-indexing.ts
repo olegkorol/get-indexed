@@ -59,7 +59,6 @@ export async function submitUrlsToGoogleIndex(
         }
       })
 
-      console.log(response.data)
       results.push({
         success: response.status === 200,
         status: response.status,
