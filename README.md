@@ -34,7 +34,7 @@ const sitemapUrls = [
   'https://example.org/sitemap.xml',
 ]
 
-// Sitemap index files are supportted as well:
+// Sitemap index files are supported as well:
 
 const sitemapUrls = [
   'https://example.org/sitemap-index.xml',
