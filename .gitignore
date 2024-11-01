@@ -1,3 +1,13 @@
 .env
 
 service-account.json
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# IDE
+.vscode/
